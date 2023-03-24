@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Basith</h1>
 <h3 align="center">A Passionate Flutter dev and a Computer Science student</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **Computer Science**
 
 - 👯 I’m looking to collaborate on **Awesome flutter projects**
 
