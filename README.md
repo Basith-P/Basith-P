@@ -33,4 +33,4 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basith-p&show_icons=true&locale=en" alt="basith-p" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basith-p&show_icons=true&locale=en" alt="basith-p" /></p> -->
