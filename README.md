@@ -4,7 +4,7 @@
 - 🔭 Currently working on **iOS apps with SwiftUI**
 - 📱 Experienced in building and shipping **mobile apps from idea to App Store**
 - 🌱 Exploring **Swift Concurrency, app architecture, and scalable UI**
-- 💬 Ask me about **Swift, SwiftUI, Flutter, and REST API integration**
+- 💬 Ask me about **Swift, SwiftUI, and Flutter
 - 📫 Reach me at **basithpofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
